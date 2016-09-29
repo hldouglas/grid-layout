@@ -23,6 +23,6 @@ body {
 }
 
 .img-flex {
-  display: inline-block;
+  display: block;
   width: 100%;
 }
