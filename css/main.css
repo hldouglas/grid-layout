@@ -12,6 +12,8 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
   font-family: "Open Sans", sans-serif;
+
+  background-color: white;
 }
 
 *, *::before, *::after {
